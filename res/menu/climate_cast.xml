@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.climatecast.ClimateCast" >
+
+    <item
+        android:id="@+id/action_Add_locations"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_fav"
+        android:title="@string/Add_locations">
+    </item>
+<!--     <item
+        android:id="@+id/action_changeScale"
+        android:orderInCategory="101"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_change"
+        android:title="@string/strChangeScale">
+    </item> -->
+    <item android:id="@+id/action_signOut" 
+        android:orderInCategory="102" 
+        android:showAsAction="always" 
+        android:icon="@drawable/ic_logout"
+        android:title="@string/sign_out"></item>
+    
+
+</menu>

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.climatecast.ClimateCast" >
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_info"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="About the App">
+    </item>
+</menu>

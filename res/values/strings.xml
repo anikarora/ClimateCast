@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClimateCast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_add">Add</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_to_do">ToDoActivity</string>
+    <string name="name">First Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_account">Create New Account</string>
+    <string name="NoBlank">No field can be left blank</string>
+    <string name="PasswordsDontMatch">Passwords do not match</string>
+    <string name="SuccesLogIn">User successfully logged in</string>
+    <string name="UnableSignUp">Unable to signup</string>
+    <string name="IDTaken">Email ID already taken</string>
+    <string name="UserFullName">UserFullName</string>
+    <string name="DescMissing">Description is missing</string>
+    <string name="SuccAddition">Successfully added the Item</string>
+    <string name="btnDelete">Delete</string>
+    <string name="Search_city">Search City</string>
+    <string name="hint_search">Search City</string>
+    <string name="Search">Search</string>
+    <string name="Done">Done</string>
+    <string name="Add_locations">Add Locations</string>
+    <string name="Edit_locations">Edit Locations</string>
+    <string name="strChangeScale">Centigrade/Fahrenheit</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="title_activity_home">Favorite Locations</string>
+    <string name="reminderSwitch">Alert Notifications</string>
+    <string name="title_activity_add_location">Search Locations to Add</string>
+    <string name="title_activity_city_details">Weather Forecast</string>
+    <string name="tvTemp">Temperature</string>
+    <string name="tvDewText">Dew Point</string>
+    <string name="tvPrecText">Precipitation</string>
+    <string name="tvVisibilityText">Visibility</string>
+    <string name="tvWindText">Wind</string>
+    <string name="time">Local Time</string>
+    <string name="Forecast">Forecast</string>
+    <string name="humidity">Humidity (%)</string>
+    <string name="SetReminders">SetReminders</string>
+    <string name="ManageReminders">ManageReminders</string>
+    <string name="title_activity_reminder">ReminderActivity</string>
+    <string name="Temperature">Temperature (0°C : 45°C)</string>
+    <string name="Minimum">Minimum</string>
+    <string name="Maximum">Maximum</string>
+    <string name="Wind">Wind</string>
+    <string name="Duration">Alert me before : 10 hours</string>
+    <string name="Rain">Rain</string>
+    <string name="Snow">Snow</string>
+    <string name="Cloudy">Cloudy</string>
+    <string name="Tornado">Tornado</string>
+    <string name="HIA">Hours in advance</string>
+
+</resources>

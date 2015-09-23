@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.climatecast.ClimateCast" >
+
+    <item
+        android:id="@+id/Reminders"
+        android:icon="@drawable/ic_set"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/SetReminders">
+    </item>
+    <item
+        android:id="@+id/ManageReminders"
+        android:icon="@drawable/ic_manage"
+        android:orderInCategory="101"
+        android:showAsAction="always"
+        android:title="@string/ManageReminders">
+    </item>
+    
+</menu>

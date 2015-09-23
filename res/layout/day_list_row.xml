@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_marginTop="20dp"
+    android:layout_marginLeft="20dp"
+    android:background="#05041C"
+    android:layout_marginRight="20dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvDayWeek"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:text="TextView" />
+
+    <ImageView
+        android:id="@+id/ivDayCityCond"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/tvDayTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/tvDayStatus"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:text="TextView" 
+        android:textColor="#FFFFFF"
+        android:textSize="12sp"/>
+
+</LinearLayout>
